@@ -1,6 +1,6 @@
 ## 👋 Seja bem-vindo(a)!
 
-[![Portfólio](https://img.shields.io/website?label=portfolio-geeh.netlify.app&style=for-the-badge&url=https://portfolio-geeh.netlify.app/)](https://portfolio-geeh.netlify.app/)
+[![Portfólio](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://portfolio-geeh.netlify.app/)](https://portfolio-geeh.netlify.app/)
 [![Instagram](https://img.shields.io/badge/@gldasilva17-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gldasilva17)
 
 ---
