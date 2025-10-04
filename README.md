@@ -7,7 +7,7 @@
 
 ## 💼 Sobre mim
 
-Atualmente, atuo como Analista de Sistemas Jr, com especialização em C# e SQL Server. Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Vianna Júnior, em Juiz de Fora/MG.
+Atualmente, atuo como Analista de Desenvolvimento de Sistemas, com especialização em C# e SQL Server. Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Vianna Júnior, em Juiz de Fora/MG.
 Sou apaixonado por inovação e pela transformação de ideias em soluções escaláveis e eficientes, sempre buscando aplicar as melhores práticas e padrões modernos no desenvolvimento de software.
 Acredito que talento e genialidade são importantes, mas persistência e determinação são os verdadeiros diferenciais na construção de resultados consistentes.
 
